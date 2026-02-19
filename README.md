@@ -9,4 +9,5 @@ Este repositorio funciona como mi bitácora técnica y laboratorio de pruebas pa
 * Crear una base de conocimientos para la automatización de procesos.
 
 ## 📑 Organización del Repo
-* `/Fundamentos`: Filtrado, ordenamiento y funciones básicas.
+* `/1-Conoce_las_DB`: Que es SQL y las DB.
+* `/2-Consultas_SQL`: Tu primera query y mas.
