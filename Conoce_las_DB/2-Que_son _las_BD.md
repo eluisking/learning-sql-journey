@@ -30,5 +30,16 @@ Imagina una caja gigante donde avientas carpetas. Cada carpeta puede tener cosas
 ## Ejemplo de una Base de Datos Relacional.
 Lo mas comun para aprender es con un contexto comercial(e-comerce), a continuacion vemos una base de datos de una tienda en linea como ejemplo.
 
+<img src="../assets/DB_example.PNG" alt="Ejemplo de DB." style="border-radius: 15px;" width="200">
 
-<img src="./assets/DB_example.png" alt="Ejemplo de DB." width="200">
+Te muestro un ejemplo de una tabla, estas estas constituidas por filas y columnas, de estamanera organizamos la informacion.
+
+En este ejemplo vemos una **Fila**, la cual esta resaltada de color azul, este es un registro de un producto con toda su informacion.
+
+<img src="../assets/filas.PNG" alt="Ejemplo de Fila." style="border-radius: 15px;" width="200">
+
+Ahora las columnas, estas representan un atributo del registro, en este ejemplo vemos el nombre de cada producto.
+
+<img src="../assets/Columnas.PNG" alt="Ejemplo de Fila." style="border-radius: 15px;" width="200">
+
+*En las siguiente carpeta te muestro a hacer consultas de SQL para comunicarte con las BD.*
